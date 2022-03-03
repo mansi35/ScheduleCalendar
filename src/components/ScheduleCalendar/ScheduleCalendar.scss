@@ -1,0 +1,262 @@
+.schedulePage__scheduler {
+    .schedulePage__schedulerEvent {
+        color: #FFFFFF;
+        padding: 25px 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        div {
+            width: 100%;
+            text-align: center;
+            color: #FFFFFF;
+            font-weight: 600;
+            font-family: Poppins;
+        }
+    }
+}
+
+.e-schedule .e-appointment-details {
+    padding: 0 !important;
+}
+
+.e-schedule .e-schedule-toolbar .e-toolbar-items {
+    background: #FBF2F4 !important;
+}
+
+.e-toolbar .e-tbar-btn {
+    background: #FBF2F4 !important;
+}
+
+.e-schedule .e-vertical-view .e-header-cells {
+    background-color: #FBF2F4 !important;
+}
+
+.e-schedule .e-vertical-view .e-current-time {
+    color: #AB70CA !important;
+}
+
+.e-schedule .e-vertical-view .e-header-cells.e-current-day {
+    color: #AB70CA !important;
+}
+
+.e-schedule .e-vertical-view .e-current-timeline {
+    border-top: 1px solid #AB70CA !important;
+}
+
+.e-schedule .e-vertical-view .e-previous-timeline {
+    border-top: 1px dotted #AB70CA !important;
+}
+
+.e-schedule .e-vertical-view .e-time-cells-wrap table td {
+    background: #FBF2F4 !important;
+}
+
+.e-schedule .e-vertical-view .e-work-cells {
+    background-color: #FBF2F4 !important;
+}
+
+.e-schedule .e-schedule-table {
+    background: #FBF2F4 !important;
+}
+
+.e-schedule {
+    background-color: #FBF2F4;
+}
+
+.e-schedule .e-vertical-view .e-header-cells .e-header-date {
+    font-size: 12px !important;
+    border: 1px solid #AB70CA !important;
+    color: #AB70CA;
+    border-radius: 100px;
+    width: 25px;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+}
+
+.e-schedule .e-vertical-view .e-header-cells .e-header-day {
+    margin: auto !important;
+}
+
+.e-schedule .e-vertical-view .e-header-cells.e-current-day .e-header-date {
+    background-color: #AB70CA !important;
+    color: #FFFFFF !important;
+}
+
+.e-schedule .e-schedule-toolbar .e-active-view .e-tbar-btn-text, .e-schedule .e-schedule-toolbar .e-active-view .e-icons {
+    color: #AB70CA !important;
+}
+
+.e-schedule .e-vertical-view .e-day-wrapper .e-appointment {
+    background: #AB70CA !important;
+}
+
+.e-calendar .e-content td.e-today.e-selected:hover span.e-day, .e-calendar .e-content td.e-selected:hover span.e-day, .e-calendar .e-content td.e-selected.e-focused-date span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-today.e-selected:hover span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-selected:hover span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-selected.e-focused-date span.e-day {
+    background-color: #AB70CA !important;
+    color: #FFFFFF;
+}
+
+.e-calendar .e-content td.e-today span.e-day, .e-calendar .e-content td.e-focused-date.e-today span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-today span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-focused-date.e-today span.e-day {
+    background: none;
+    border: 1px solid #AB70CA !important;
+    border-radius: 50%;
+}
+
+.e-footer-content .e-btn.e-primary.e-flat:not([DISABLED]) {
+    background-color: #AB70CA !important;
+    border-color: #AB70CA !important;
+}
+
+.e-btn.e-flat.e-primary:focus {
+    box-shadow: 0 0 0 4px rgba(161, 49, 253, 0.5) !important;
+}
+
+.e-input-group:not(.e-disabled):active:not(.e-success):not(.e-warning):not(.e-error), .e-input-group.e-control-wrapper:not(.e-disabled):active:not(.e-success):not(.e-warning):not(.e-error) {
+    border-color: #AB70CA !important;
+    box-shadow: 0 0 0 4px rgba(161, 49, 253, 0.25) !important;
+}
+
+.e-input-group:not(.e-disabled):focus:not(.e-success):not(.e-warning):not(.e-error), .e-input-group.e-control-wrapper:not(.e-disabled):focus:not(.e-success):not(.e-warning):not(.e-error) {
+    border-color: #AB70CA !important;
+    box-shadow: 0 0 0 4px rgba(161, 49, 253, 0.25) !important;
+}
+
+.e-input-focus {
+    border-color: #AB70CA !important;
+    box-shadow: 0 0 0 4px rgba(161, 49, 253, 0.25) !important;
+}
+
+input.e-input::selection, textarea.e-input::selection, .e-input-group input.e-input::selection, .e-input-group.e-control-wrapper input.e-input::selection, .e-float-input input::selection, .e-float-input.e-control-wrapper input::selection, .e-input-group textarea.e-input::selection, .e-input-group.e-control-wrapper textarea.e-input::selection, .e-float-input textarea::selection, .e-float-input.e-control-wrapper textarea::selection {
+    background: #AB70CA !important;
+    color: #FFFFFF;
+}
+
+.e-input-group:not(.e-float-icon-left):not(.e-float-input)::before, .e-input-group:not(.e-float-icon-left):not(.e-float-input)::after, .e-input-group.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::before, .e-input-group.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::after, .e-input-group.e-control-wrapper:not(.e-float-icon-left):not(.e-float-input)::before, .e-input-group.e-control-wrapper:not(.e-float-icon-left):not(.e-float-input)::after, .e-input-group.e-control-wrapper.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::before, .e-input-group.e-control-wrapper.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::after {
+    background: #AB70CA;
+}
+
+.e-datetime-wrapper .e-input-group-icon.e-icons.e-active {
+    color: #AB70CA !important;
+}
+
+.e-appointment.e-lib.e-draggable {
+    width: 100% !important;
+    display: flex;
+    align-items: center;
+}
+
+.custom-event-editor > tbody > tr {
+    height: 60px;
+}
+
+#sessionType_Error {
+    left: 43% !important;
+    top: 41.6px !important;
+}
+
+#endTime_Error {
+    left: 43% !important;
+}
+
+#startTime_Error {
+    left: 43% !important;
+}
+
+.e-schedule .e-schedule-toolbar .e-hor-nav {
+    background: #FBF2F4 !important;
+}
+
+@media  screen and (max-width: 800px) {
+    .schedulePage__scheduler {
+        height: 78vh !important;
+    }
+}
+
+.e-toolbar .e-tbar-btn:hover {
+    span {
+        color: #AB70CA !important;
+    }
+}
+
+.e-toolbar .e-tbar-btn:active {
+    span {
+        color: #AB70CA !important;
+    }
+}
+
+.e-toolbar .e-tbar-btn:focus {
+    span {
+        color: #AB70CA !important;
+    }
+}
+
+.e-calendar .e-btn.e-today.e-flat.e-primary, .e-calendar .e-css.e-btn.e-today.e-flat.e-primary {
+    background-color: #AB70CA;
+    border-color: #AB70CA;
+    color: #FFFFFF;
+}
+
+.e-btn.e-primary.e-active, .e-css.e-btn.e-primary.e-active {
+    background-color: #AB70CA !important;
+    border-color: #7a3f99 !important;
+}
+
+.e-btn.e-primary:focus, .e-css.e-btn.e-primary:focus {
+    box-shadow: 0 0 0 4px rgba(161, 49, 253, 0.25) !important;
+}
+
+.reschedule__modal {
+    .modal__clientProfile {
+      padding: 0 20px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 30px;
+      img {
+        height: 60px;
+        width: 60px;
+        border-radius: 100%;
+        object-fit: cover;
+      }
+    }
+  
+    .modal__clientSchedule {
+      padding: 0 20px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 30px;
+  
+      h4, h5, svg {
+        color: #727272;
+        text-align: center;
+      }
+  
+      .modal__clientTime {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 5px;
+        .modal__timeBar {
+          width: 10px;
+          height: 1px;
+          background-color: #000000;
+        }
+        h5 {
+          background-color: #DCDCDC;
+          border-radius: 5px;
+          padding: 2px 7px;
+          font-weight: 400;
+        }
+      }
+    }
+  
+    .rescheduleModal__button {
+      width: 100%;
+      margin-left: 0px !important;
+    }
+  }
+  
